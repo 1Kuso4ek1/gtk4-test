@@ -1,0 +1,6 @@
+data/org.IDN.TestApplication.desktop.in
+data/org.IDN.TestApplication.metainfo.xml.in
+data/org.IDN.TestApplication.gschema.xml
+src/main.c
+src/testapplication-window.c
+src/testapplication-window.ui
